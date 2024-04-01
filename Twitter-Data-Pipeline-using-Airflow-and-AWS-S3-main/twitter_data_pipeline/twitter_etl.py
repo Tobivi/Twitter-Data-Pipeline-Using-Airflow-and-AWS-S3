@@ -3,7 +3,7 @@ import tweepy
 import config as config
 import boto3
 
-bucket_name = 'kishlay-airflow-twitter-project'
+bucket_name = 'tobi-victor-airflow-twitter-project'
 
 
 def run_twitter_etl():
